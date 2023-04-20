@@ -1,0 +1,51 @@
+{
+    "manga": [
+        {
+            "id": 1,
+            "title": "Paw patrol's",
+            "picture": "https://img.okezone.com/content/2019/09/12/33/2104157/paw-patrol-bakal-gelar-pertunjukan-musikal-di-indonesia-GxolRIoWYd.jpg",
+            "description": "PAW Patrol : La Pat' Patrouille, ou La Pat' Patrouille (PAW Patrol) est une série d’animation canadienne créée par Keith Chapman, produite par Spin Master et Guru Studio, et diffusée depuis le 12 août 2013 sur Nickelodeon aux États-Unis et sur TVOKids.",
+            "url": "https://www.youtube.com/watch?v=SvTtmQeOO3s"
+        },
+        {
+            "id": 2,
+            "title": "Bluey",
+            "picture": "https://static.francetelevisions.fr/styles/scale_728/public/2021-04/Bluey%20S1_Iconics_008%20%282%29..jpg?fv=VOTE2lcA&itok=CpP72EJn",
+            "description": "Bluey est une série télévisée d'animation australienne pour enfants créée par Joe Brumm, produite par Ludo Studio, et diffusée depuis le 1er octobre 2018 sur ABC Kids. La série a été commandée conjointement par la Australian Broadcasting Corporation et la British Broadcasting Corporation, la BBC détenant les droits mondiaux de distribution et de commercialisation. La série est diffusée en TVNZ 2 en Nouvelle-Zélande et à l'international sur Disney Junior et Disney+. ",
+            "url": "https://www.youtube.com/watch?v=en60fQkdhgA"
+        },
+        {
+            "id": 3,
+            "title": "Spidey",
+            "picture": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/spideyamazingfriends.jpg",
+            "description": "Spidey et ses amis extraordinaires est une série d'animation américaine de super-héros américaine animée par ordinateur produite par Atomic Cartoons. Elle présente de jeunes enfants des personnages de Marvel Comics. La série est diffusée aux États-Unis sur Disney Junior depuis le 6 août 2021. ",
+            "url": "https://www.youtube.com/watch?v=DWccbFmTm9E"
+        },
+        {
+            "id": 4,
+            "title": "Blaze et les monster machine",
+            "picture": "https://3.bp.blogspot.com/-Umsbq0uK0bI/XZpmIkhCwJI/AAAAAAABMao/zZNHzf0QrE8t78xAduRYnnl7PAyt7bIfgCNcBGAsYHQ/w1600/blaze-and-the-monster-machines-nickelodeon-preschool-nick-jr.jpeg",
+            "description": "Blaze est un camion monstre rouge. AJ est le pilote de Blaze, un expert vieille technologie de huit ans. Gabby est un mécanicien compétent. Darrington est un monstre camion bleu sans peur qui aime se montrer. ",
+            "url": "https://www.youtube.com/watch?v=ELfvMsrPvPo"
+        },
+        {
+            "id": 5,
+            "title": "La maison de mickey",
+            "picture": "https://th.bing.com/th/id/R.2b9b19c1060c983c9e8e0ec5a57ff2d7?rik=I0%2bdlb%2bf6MtnXg&riu=http%3a%2f%2fis1.mzstatic.com%2fimage%2fthumb%2fMusic%2fv4%2fbe%2fa3%2fb1%2fbea3b12d-d2d4-d772-5d0b-7d2b18c4088d%2fsource%2f800x800sr.jpg&ehk=%2fs67dOkp3g8QugJEM6CyXDkneQnkqI9IDUuiycwccCk%3d&risl=&pid=ImgRaw&r=0",
+            "description": "Mickey et tous ses amis te donnent rendez-vous dans la Maison de Mickey, au programme : des jeux, de l'aventure et de la bonne humeur et toujours avec l'aide du tourniquet. ",
+            "url": "https://www.youtube.com/watch?v=3jKo_yFGL5w"
+        },
+        {
+            "id": 6
+        },
+        {
+            "id": 7
+        },
+        {
+            "id": 8
+        },
+        {
+            "id": 9
+        }
+    ]
+}
